@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">走跑轨迹</string>
+    <string name="hint_start">开始走或跑</string>
+    <string name="start">开始</string>
+    <string name="end">结束</string>
+    <string name="weak_gps">信号弱，轨迹可能不准</string>
+    <string name="permission_denied">未开定位，无法画轨迹</string>
+    <string name="go_settings">去设置</string>
+    <string name="save">保存到历史</string>
+    <string name="discard">不保存</string>
+    <string name="history">历史</string>
+    <string name="history_empty">还没有记录</string>
+    <string name="back">返回</string>
+    <string name="notification_channel">轨迹记录</string>
+    <string name="notification_title">正在记录轨迹</string>
+    <string name="notification_text">锁屏后仍会继续记录</string>
+</resources>
